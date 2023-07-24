@@ -8,7 +8,7 @@
 
 ## Technologies
 
-*JSP/Servlet/JDBC, reCAPTCHA v2, SQL Server
+*JSP/Servlet/JDBC, reCAPTCHA v2, SQL Server*
 
 ## Screenshots
 

@@ -4,9 +4,9 @@
   
 • There are two roles:
   
-  - Admin: CRUD products
+  - Admin: CRUD products.
     
-  - User: Manages cart and orders products
+  - User: Manages cart and orders products.
 
 ## Technologies
 
@@ -14,7 +14,7 @@
 
 Note:
 
-  • The SQLDatabse.sql file is from SQL Server2019, containing the script to create the database named AssignmentPrj
+  • The SQLDatabse.sql file is from SQL Server2019, containing the script to create the database named AssignmentPrj.
 
   • The portNumber in the DBConnect.java class is default port of 1433. It may be necessary to change the port number in this class or change it in the SQL Server config.
 
@@ -26,7 +26,7 @@ Note:
 
 For the user scenario, you can create an account and log in to this web application.
 
-For the admin scenario, please log in using one of the following accounts: admin0|admin0, admin1|admin1
+For the admin scenario, please log in using one of the following accounts: admin0|admin0, admin1|admin1.
 
 ## Screenshots
 

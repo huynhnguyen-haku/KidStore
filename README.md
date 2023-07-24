@@ -2,8 +2,8 @@
 
 - This is a simple project created for ordering and managing baby products using the MVC2 architecture.
 - There are two roles:
-  -Admin: CRUD products
-  -User: Manages cart and orders products
+  - Admin: CRUD products
+  - User: Manages cart and orders products
 
 ## Technologies
 

@@ -1,8 +1,11 @@
 # Kid's Store
 
 - This is a simple project created for ordering and managing baby products using the MVC2 architecture.
+  
 - There are two roles:
+  
   - Admin: CRUD products
+    
   - User: Manages cart and orders products
 
 ## Technologies
@@ -27,6 +30,7 @@ For the admin scenario, please log in using one of the following accounts: admin
 ## License
 
 ### Connect me via huynhnguyen1532@gmail.com
+
 #### Copyright &#169; 2023 huynhnguyen-haku
 
 

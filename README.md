@@ -2,8 +2,8 @@
 
 - This is a simple project created for ordering and managing baby products using the MVC2 architecture.
 - There are two roles:
-  - Admin: Có chức năng thêm, xóa, sửa và quản lý các sản phẩm của cửa hàng
-  - User: Có thể thêm sản phẩm vào giỏ và thanh toán
+  -Admin: CRUD products
+  -User: Manages cart and orders products
 
 ## Technologies
 

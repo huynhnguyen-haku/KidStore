@@ -12,12 +12,6 @@
 
 *JSP/Servlet/JDBC, reCAPTCHA v2, SQL Server*
 
-## Usage
-
-For the user scenario, you can create an account and log in to this web application.
-
-For the admin scenario, please log in using one of the following accounts: admin0|admin0, admin1|admin1
-
 Note:
 
   • The SQLDatabse.sql file is from SQL Server2019, containing the script to create the database named AssignmentPrj
@@ -27,6 +21,12 @@ Note:
   • The project is coded and built on Netbean IDE 8.2, Java version 1.8.0_45.
 
   • The libraries have been imported in the project: sqljdbc4.2.0 (used to connect Java with SQL Server) and jst1.2 (used to load data from SQL into JSP pages).
+  
+## Usage
+
+For the user scenario, you can create an account and log in to this web application.
+
+For the admin scenario, please log in using one of the following accounts: admin0|admin0, admin1|admin1
 
 ## Screenshots
 

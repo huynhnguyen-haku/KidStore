@@ -10,4 +10,11 @@
 
 ## Screenshots
 
+![screenshot](https://github.com/huynhnguyen-haku/KidStore/blob/main/screenshots/adsc1.png)
+![screenshot](https://github.com/huynhnguyen-haku/KidStore/blob/main/screenshots/adsc2.png)
+![screenshot](https://github.com/huynhnguyen-haku/KidStore/blob/main/screenshots/ussc1.png)
+![screenshot](https://github.com/huynhnguyen-haku/KidStore/blob/main/screenshots/ussc2.png)
+![screenshot](https://github.com/huynhnguyen-haku/KidStore/blob/main/screenshots/ussc3.png)
+![screenshot](https://github.com/huynhnguyen-haku/KidStore/blob/main/screenshots/ussc4.png)
+
 
